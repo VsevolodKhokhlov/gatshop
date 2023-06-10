@@ -1,9 +1,4 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.com">
-  </a>
-    <img alt="Shopify" src="./static/github.svg" />
-</p>
-<p align="center">
   <a href="https://www.shopify.com">
   </a>
     <img alt="Shopify" src="https://cdn.shopify.com/shopifycloud/web/assets/v1/2217fb04df073033ccce8d125b0ea020.svg" width="60" />
